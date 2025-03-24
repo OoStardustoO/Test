@@ -24,7 +24,7 @@ namespace Test
 
         private void button1_Click(object sender, EventArgs e)
         {
-            txtShow.Text = "謝謝老師!";
+            txtShow.Text = "謝謝老師!!!";
         }
     }
 }
